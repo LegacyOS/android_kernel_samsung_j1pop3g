@@ -1,5 +1,3 @@
-#############################################################################################
-
 1. How to Build kernel and mali
 	- get Toolchain
 		From android git server , codesourcery and etc ..
@@ -21,4 +19,3 @@
 
 3. How to Clean	
 		$ ./build_kernel.sh Clean
-#############################################################################################
